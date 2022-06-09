@@ -5,14 +5,14 @@
 
 ## About:
 
-A Student and Learner from Bihar, India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.   
-Passionate about technology and want to learn & explore new technologies. 
+A Student and Learner from Bihar, India, currently persuing B.Tech in Civil Engineering from Malaviya National Institute of Technology (MNIT).   
+Passionate about technology specially about artificial intelligence and want to learn about it. 
 
 
 ### Key Features:
 
-- Learning MERN Stack.
-- Intrested in WEB3 & CyberSecurity.
+- Learning Machine learning.
+- Intrested in Artificial Intelligence.
 - Practice DSA Everyday.
 
 

@@ -1,12 +1,12 @@
 ## Hello, I'm [Raushan Shahi!](https://www.linkedin.com/in/Raushan-Shahi) 
 <!-- <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+beginner+in+AIML.;Competitive+Coder.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+beginner+at+AIML.;Competitive+Coder.)](https://git.io/typing-svg)
     
 
 ## About:
 
 A Student and Learner from Bihar, India, currently persuing B.Tech in Civil Engineering from Malaviya National Institute of Technology (MNIT).   
-Passionate about technology specially about artificial intelligence and want to learn about it. 
+Passionate about technology, specially about artificial intelligence and want to learn about it. 
 
 
 ### Key Features:

@@ -38,8 +38,7 @@ Passionate about technology, specially about artificial intelligence and want to
 
 
 ___  
-### ![image](https://user-images.githubusercontent.com/94735026/202931630-0713c8b2-3bb7-43a0-a678-4feab6730cf2.png)
-Badges
+### Badges
 -[![@raushanshahi23's Holopin board](https://holopin.me/raushanshahi23)](https://holopin.io/@raushanshahi23)
 
 ## Competitive Programming 

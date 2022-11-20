@@ -1,6 +1,6 @@
 ## Hello, I'm [Raushan Shahi!](https://www.linkedin.com/in/Raushan-Shahi) 
 <!-- <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+beginner+in+AIML.;Competitive+Coder.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Machine+learning+,+computer+vision;Competitive+Coder.)](https://git.io/typing-svg)
     
 
 ## About:
@@ -12,6 +12,7 @@ Passionate about technology, specially about artificial intelligence and want to
 ### Key Features:
 
 - Learning Machine learning.
+-learning computer vision
 - Intrested in Artificial Intelligence.
 - Practice DSA Everyday.
 
@@ -37,27 +38,28 @@ Passionate about technology, specially about artificial intelligence and want to
 
 
 ___  
-
+### badges
+-[![@raushanshahi23's Holopin board](https://holopin.me/raushanshahi23)](https://holopin.io/@raushanshahi23)
 
 ## Competitive Programming 
-- [LeetCode](https://leetcode.com/Raushan-Shahi/) : 250+ Problems (Data Structures and Algorithms).
-- [CodeForces](https://codeforces.com/profile/Raushan-Shahi) : Newbie.
+- [LeetCode](https://leetcode.com/raushanshahi/) : Newbie.
+- [CodeForces](https://www.codechef.com/users/raushan_shahi) : Newbie.
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Raushan-Shahi)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=raushanshahi)
                   
 
 ___  
 
 ### Connect with me:
 
-[![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/Raushan-Shahi)
+[![ln](./Images/linkedin-light.svg)](https://linkedin.com/in/raushan-shahi-363895219)
 [![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/Raushan-Shahi)
 &nbsp;&nbsp;
-[![Ig](./Images/instagram-light.svg)](https://www.instagram.com/shubhansu_kumar/)
-[![Ig](./Images/instagram-dark.svg)](https://www.instagram.com/shubhansu_kumar/)
+[![Ig](./Images/instagram-light.svg)](https://www.instagram.com/raushan._.shahi/)
+[![Ig](./Images/instagram-dark.svg)](https://www.instagram.com/raushan._.shahi/)
 &nbsp;&nbsp;
-<!-- [![website](./Images/mail-light.svg)](mailto:shubhansu2021@gmail.com)  -->
+<!-- [![website](./Images/mail-light.svg)](mailto:raushanshahi2001@gmail.com)  -->
 
 <!-- <h2> Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">

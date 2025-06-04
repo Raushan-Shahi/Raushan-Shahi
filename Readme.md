@@ -5,16 +5,16 @@
 
 ## About:
 
-A Student and Learner from Bihar, India, currently persuing B.Tech in Civil Engineering from Malaviya National Institute of Technology (MNIT).   
-Passionate about technology, specially about artificial intelligence and want to learn about it. 
+A Student and Learner from Bihar, India, graduated in B.Tech in Civil Engineering from Malaviya National Institute of Technology (MNIT).   
+Passionate about technology, specially about artificial intelligence and it's application in real world.
 
 
 ### Key Features:
 
-- Learning Machine learning.
--learning computer vision
-- Intrested in Artificial Intelligence.
-- Practice DSA Everyday.
+- Mastering Machine learning.
+- Learning Full Stack Development
+- System Design
+- Leadership
 
 
 ---
@@ -42,8 +42,8 @@ ___
 -[![@raushanshahi23's Holopin board](https://holopin.me/raushanshahi23)](https://holopin.io/@raushanshahi23)
 
 ## Competitive Programming 
-- [LeetCode](https://leetcode.com/raushanshahi/) : Newbie.
-- [CodeForces](https://www.codechef.com/users/raushan_shahi) : Newbie.
+- [LeetCode](https://leetcode.com/raushanshahi/) : 500+ questions solved
+- [CodeChef](https://www.codechef.com/users/raushan_shahi) : 2* Coder
 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=raushanshahi)
